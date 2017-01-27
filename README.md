@@ -1,3 +1,6 @@
+Ukljucite fajl sqlfile.sql u vasu bazu, bazu nazovite kako hocete i u application/config/database.php konfigurisite ime baze.
+
+
 Koristite POSTMAN za testiranje aplikacije.
 
 U svaki header je potrebno ukljuciti'Content-Type','Client-Service' i 'Auth-Key' sa vrednostima 'application/json','frontend-client' i 'fsdprojekat'.
